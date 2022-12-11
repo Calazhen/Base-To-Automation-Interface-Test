@@ -1,4 +1,4 @@
-package org.GetTittleGoogle;
+package org.GettingGoogleTittle;
 
 import org.junit.Assert;
 
